@@ -33,6 +33,3 @@ This Python script monitors a serial connection (specifically to an Arduino devi
 
 ## Use Case
 This script is ideal for security applications where real-time monitoring and alerting are crucial, allowing users to receive immediate notifications when specific events, such as motion detected by the PIR sensor, occur in the connected Arduino device.
-
-## Use Case
-This script is ideal for security applications where real-time monitoring and alerting are crucial, allowing users to receive immediate notifications when specific events occur in the connected Arduino device.
